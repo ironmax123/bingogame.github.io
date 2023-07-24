@@ -1,0 +1,22 @@
+button {
+    width: 6em;
+    height:6em;
+    background-color:#f5fffa;
+}
+  
+@media (min-width: 800px) {
+    button {
+        width: 10em;
+        height:10em;
+        background-color:#f5fffa;
+    }
+}
+@media (min-width: 1200px) {
+    button {
+        width: 12em;
+        height:12em;
+        background-color:#f5fffa;
+    }
+}
+
+
